@@ -2,21 +2,21 @@
 Rock Paper Scissors game — Odin Project exercise in JavaScript.
 
 
-##Rock Paper Scissors
+## Rock Paper Scissors
 
 A simple Rock Paper Scissors game built with JavaScript, created as part of The Odin Project
  Foundations course.
 
  ---
 
- ##About 
+ ## About 
  
 This project was made to practice JavaScript fundamentals, including functions, conditionals, and DOM manipulation.
 The goal: build a small interactive browser game where the player competes against the computer.
 
 ---
 
-##Features
+## Features
 
 - Play against the computer
 - Randomized computer choices
@@ -25,7 +25,7 @@ The goal: build a small interactive browser game where the player competes again
 
 ---
 
-##More to come
+## More to come
 
 - What I learned?
 - How to play?
@@ -34,5 +34,5 @@ The goal: build a small interactive browser game where the player competes again
 
 ---
 
-##Acknowledgements
+## Acknowledgements
 Project completed for The Odin Project.
